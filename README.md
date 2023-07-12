@@ -1,2 +1,2 @@
-# Calculator1
-this is calculator
+# Calculator
+**This is calculator**
